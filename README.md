@@ -1,0 +1,1 @@
+# pure_functions_immutability_referential_transparency_tasks
